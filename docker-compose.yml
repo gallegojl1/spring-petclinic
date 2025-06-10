@@ -20,3 +20,4 @@ services:
       - POSTGRES_USER=petclinic
       - POSTGRES_DB=petclinic
       - POSTGRES_DB2=petclinic2
+      - POSTGRES_DB3=petclinic3
